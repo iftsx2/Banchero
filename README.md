@@ -12,7 +12,7 @@ Aplicación web full stack para la gestión de pedidos, reservas y usuarios en u
 ## Tecnologías utilizadas
 - Frontend: React, HTML, CSS
 - Backend: Node.js, Express
-- Base de datos: PostgreSQL
+- Base de datos: MySQL
 - Control de versiones: Git, GitHub
 
 ## Instalación y ejecución
